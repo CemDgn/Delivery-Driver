@@ -1,2 +1,2 @@
 # Delivery-Driver
-Collect and deliver packages
+Package picking and delivering game with Unity.
